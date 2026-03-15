@@ -87,6 +87,7 @@ Quick reference for AI agents to discover tool capabilities and integration meth
 | strapi | Headless CMS | ✓ | - | ✓ | ✓ | [strapi.md](integrations/strapi.md) |
 | composio | Integration Layer | ✓ | ✓ | ✓ | ✓ | [composio.md](integrations/composio.md) |
 | job-posting-monitor | Market Intelligence | - | - | [✓](clis/job-posting-monitor.js) | - | — |
+| levawel-kango | Market Intelligence | - | - | [✓](clis/levawel-kango.js) | - | — |
 
 ---
 
